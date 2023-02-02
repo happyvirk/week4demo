@@ -3,7 +3,7 @@ package studlist;
 
 /**
  * 
- * @author Megha Patel 
+ * @author Harpreet
  */
 public class Student {
     private int studId;
